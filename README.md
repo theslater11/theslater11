@@ -1,6 +1,6 @@
 ## My name is Jonathan Slater and I have a talent for Leadership and a love of Data.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on **March Madness Predictions**
 
 - 🌱 I’m currently learning **The Cloud**
 
@@ -8,13 +8,11 @@
 
 - 🤝 I’m looking for help with **Data Engineering**
 
-- 👨‍💻 All of my projects are available at 
-
 - 💬 Ask me about **Python,SQL,Tableau**
 
 - 📫 How to reach me **jonathanlslater@gmail.com**
 
-- ⚡ Fun fact **.**
+- ⚡ Strike up a convo ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
