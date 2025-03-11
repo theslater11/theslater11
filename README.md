@@ -1,4 +1,4 @@
-## My name is Jonathan Slater and I have a talent for organizational Leadership.
+## My name is Jonathan Slater and I have a talent for Leadership.
 '''
 Since I was 14 years old I've continually have been placed in positions where the decisions I make directly affect the people around me. I make quick decisions with limited information and a pretty good "win-rate". A "win" being the best solution for all combinations of interested parties in the long-term, not the easiest or quickest fix. This is a very important distinction to me.
 
