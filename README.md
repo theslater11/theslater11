@@ -1,4 +1,4 @@
-## My name is Jonathan Slater and I have a talent for Leadership and a love for Data.
+## My name is Jonathan Slater and I have a talent for Leadership and a love of Data.
 
 - 🔭 I’m currently working on [All things Data related](https://github.com/mjcolon218/ML_AutoMobile_Price_Prediction)
 
