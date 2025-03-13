@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jonathanlslater@gmail.com**
 
-- ⚡ Strike up a convo ****
+- ⚡ Strike up a convo **I'd love to hear about any passion you have!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
