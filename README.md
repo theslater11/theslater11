@@ -1,18 +1,18 @@
 ## My name is Jonathan Slater and I have a talent for Leadership and a love of Data.
 
-- 🔭 I’m currently working on **March Madness Predictions**
+- 🔭 I’m currently working on **Cybercrime Identification**
 
-- 🌱 I’m currently learning **The Cloud**
+- 🌱 I’m currently learning **Mongo DB**
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 🤝 I’m looking for help with **Data Engineering**
+- 🤝 I’m looking for help with **Reenforcement Algorithms**
 
 - 💬 Ask me about **Python,SQL,Tableau**
 
 - 📫 How to reach me **jonathanlslater@gmail.com**
 
-- ⚡ Strike up a convo **I'd love to hear about any passion you have!**
+- ⚡ Strike up a convo **I'd love to hear about any passion or project you have!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
